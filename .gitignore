@@ -1,0 +1,54 @@
+# You can keep your repository small and manageable with a .gitignore file.
+# Prevent build artifacts, large binary files, and other large file types
+# such as log files, media files, and executables from slowing down your workflow.
+#
+# If you need to keep large files in Bitbucket, consider introducing
+# Git Large File Storage (Git LFS) as part of your workflow.
+#
+# Learn more about .gitignore:
+#     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+# Learn more about Git LFS for large files:
+#     https://www.atlassian.com/git/tutorials/git-lfs
+# Ignore target folder
+target/
+
+# IDEA
+.idea/**
+**/.idea/**
+
+# Ignore log and screenshots
+*.log
+*.png
+**/*.log
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.swp
+*.rpm
+
+out/
+**/build/
+*.iml
+**/*.iml
+**/target/
+dump.rdb
+build/
+**/db/joined-migration/**
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Java
+*/bin
+*/bin/*
