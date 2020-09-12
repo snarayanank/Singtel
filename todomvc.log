@@ -1,0 +1,59 @@
+[INFO ] 2020-09-12 14:58:07.990 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:07.992 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:09.872 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:10.036 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:10.073 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:10.094 [main] ManageTodoSteps - Total todo items added to the list is 3 items left
+[INFO ] 2020-09-12 14:58:10.094 [main] ManageTodoSteps - All the todo items are added successfully
+[INFO ] 2020-09-12 14:58:10.161 [main] ManageTodoSteps - Total todo items in the active list is 3 items left
+[INFO ] 2020-09-12 14:58:10.161 [main] ManageTodoSteps - All the todo items are displayed in the active list
+[INFO ] 2020-09-12 14:58:12.160 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:12.160 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:14.363 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:14.408 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:14.449 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:14.817 [main] ManageTodoSteps - Removed 2 items from the todo list
+[INFO ] 2020-09-12 14:58:14.837 [main] ManageTodoSteps - Total todo items left in the list is 1 item left
+[INFO ] 2020-09-12 14:58:14.837 [main] ManageTodoSteps - The todo items left in the active todo list is 1
+[INFO ] 2020-09-12 14:58:16.261 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:16.261 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:18.120 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:18.276 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:18.314 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:18.498 [main] ManageTodoSteps - Total todo items left in the list is 0 items left
+[INFO ] 2020-09-12 14:58:18.498 [main] ManageTodoSteps - The todo items left in the active todo list is 0
+[INFO ] 2020-09-12 14:58:19.792 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:19.792 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:21.600 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:21.746 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:21.779 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:21.960 [main] ManageTodoSteps - Marked 1 item from the todo list as completed
+[INFO ] 2020-09-12 14:58:22.000 [main] ManageTodoSteps - Cleared all the completed todo items from the list
+[INFO ] 2020-09-12 14:58:22.022 [main] ManageTodoSteps - Total todo items left in the list is 2 items left
+[INFO ] 2020-09-12 14:58:22.023 [main] ManageTodoSteps - The todo items left in the active todo list is 2
+[INFO ] 2020-09-12 14:58:23.318 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:23.318 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:25.132 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:25.285 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:25.318 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:25.409 [main] ManageTodoSteps - Cleared all the completed todo items from the list
+[INFO ] 2020-09-12 14:58:25.429 [main] ManageTodoSteps - Total todo items left in the list is 
+[INFO ] 2020-09-12 14:58:25.429 [main] ManageTodoSteps - The todo items left in the active todo list is 0
+[INFO ] 2020-09-12 14:58:26.656 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:26.656 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:29.096 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:29.135 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:29.171 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:29.306 [main] ManageTodoSteps - There are 3 todo items in total in the list
+[INFO ] 2020-09-12 14:58:29.815 [main] ManageTodoSteps - Marked all the 3 todo items in the list as active again
+[INFO ] 2020-09-12 14:58:29.837 [main] ManageTodoSteps - Total todo items left in the list is 3 items left
+[INFO ] 2020-09-12 14:58:29.837 [main] ManageTodoSteps - The todo items left in the active todo list is 3
+[INFO ] 2020-09-12 14:58:31.088 [main] Base - ===>Chrome Browser started<====
+[INFO ] 2020-09-12 14:58:31.089 [main] Base - ===>Browser Session Started<====
+[INFO ] 2020-09-12 14:58:32.915 [main] ManageTodoSteps - Added Item1 to the todo list
+[INFO ] 2020-09-12 14:58:32.957 [main] ManageTodoSteps - Added Item2 to the todo list
+[INFO ] 2020-09-12 14:58:32.991 [main] ManageTodoSteps - Added Item3 to the todo list
+[INFO ] 2020-09-12 14:58:33.364 [main] ManageTodoSteps - Marked 2 item from the todo list as completed
+[INFO ] 2020-09-12 14:58:33.519 [main] ManageTodoSteps - Marked 1 item from the todo list as active again
+[INFO ] 2020-09-12 14:58:33.541 [main] ManageTodoSteps - Total todo items left in the list is 2 items left
+[INFO ] 2020-09-12 14:58:33.541 [main] ManageTodoSteps - The todo items left in the active todo list is 2
